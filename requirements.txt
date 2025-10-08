@@ -1,0 +1,6 @@
+robotframework == 7.3.2
+robotframework-seleniumlibrary == 6.8.0
+selenium == 4.36.0
+matplotlib == 3.10.6
+numpy == 2.3.3
+lxml == 6.0.2
